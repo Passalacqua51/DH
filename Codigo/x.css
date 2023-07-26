@@ -1,0 +1,37 @@
+/* Estilos para el <header> */
+header {
+  background-color: lightseagreen;
+  color: white;
+  font-size: 28px;
+  border-bottom: 3px solid indigo;
+  padding: 22px;
+  margin-bottom: 15px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* Estilos para la <section> */
+section {
+  width: 50%;
+  margin-left: 25%;
+  background-color: gainsboro;
+  margin-bottom: 15px;
+  padding-left: 12px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border: 1px dashed black;
+  border-radius: 5px; /* Agregamos el border-radius */
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* Estilos para el <footer> */
+footer {
+  background-color: rebeccapurple;
+  color: white;
+  border-top: 1px solid lightseagreen;
+  padding: 12px;
+  height: 40px;
+  text-align: center;
+  box-sizing: border-box;
+}
